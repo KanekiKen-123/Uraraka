@@ -1,7 +1,8 @@
 # Uraraka
 Presenting to you the code of themultipurpose bot Uraraka
 Bot coded by iTACHi//credits should not b removed
-Or else copyright issues-__-
+Or else copyright issues
+-__-
 
 The bot is coded in discord.js and the package used is
 Aoi.js
